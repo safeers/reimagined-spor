@@ -49,3 +49,8 @@ body{
   text-decoration-color: black;
 
 }
+
+#current {
+	font-size:20px;
+	color:rgb(242, 167, 239);
+}
