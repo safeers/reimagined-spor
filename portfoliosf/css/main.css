@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+body{
+
+	background-image: url(images/Lionel-Messi-Amazing-Backgrounds.jpg);
+	background-size:cover;
+}
+
+.nav{
+  width:200px;
+  margin-left:30px;
+  margin-top: 129px;
+}
+
+.nav ul li{
+  margin:50px;
+  font-size:16px;
+}
+
+.nav ul{
+  list-style-type: none;
+  letter-spacing: 4px;
+  position:fixed;
+
+}
+
+.nav ul li a{
+  text-decoration:none;
+  font-family: 'Montserrat:600', sans-serif;
+  color:rgb(148, 190, 252);
+
+
+}
+
+.nav ul li a:hover{
+  font-family: 'Montserrat:900', sans-serif;
+  color:rgb(242, 167, 239);
+
+}
+.nav ul li a:active{
+  font-size: 20px;
+  text-decoration: underline;
+
+  color:rgb(255, 99, 99);
+  text-decoration-color: black;
+
+}
