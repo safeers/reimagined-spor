@@ -108,3 +108,8 @@ body{
 	list-style-type: disc;
 	font-weight: bold;
 }
+
+#current {
+	font-size:20px;
+	color:rgb(242, 167, 239);
+}
