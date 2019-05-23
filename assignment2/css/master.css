@@ -366,3 +366,6 @@ b:hover{
 .thelink{
   text-decoration: underline;
 }
+.button1:hover button2:hover{
+opacity:0.8;
+}
