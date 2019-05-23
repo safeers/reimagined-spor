@@ -1,0 +1,368 @@
+.header{
+  height: 27px;
+  padding-top: 68px;
+  padding-left: 130px;
+}
+*{
+  border: 0;
+  margin:0;
+  color: white;
+  font-family: BrandonText-Regular,sans-serif;
+}
+.header2{
+  padding-left: 130px;
+
+
+}
+
+.titleart{
+  padding-bottom: 20px;
+}
+
+.flyguy{
+  float: right;
+  position:relative;
+  top: -25px;
+  right: 60px;
+}
+
+.redflag{
+  height: 320px;
+  background-color:#D83230;
+  padding-left: 130px;
+  padding-top: 20px;
+  border-bottom: 20px solid #AD2826;
+  position: relative;
+}
+
+.signin{
+  width: 26%;
+  height: 80%;
+  background-color:#AD2826;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.firsttime{
+  display: inline-block;
+  width: 55%;
+  text-align: center;
+  position: absolute;
+  top: 0px;
+  padding-top: 90px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+}
+.divfather{
+  height: 60%;
+  display: inline-block;
+  width: 61.5%;
+  margin-left: 10px;
+}
+.child1{
+  width: 48.5%;
+  height: 100%;
+  float:left;
+  background-color:#AD2826;
+}
+.child2{
+  width: 48.5%;
+  height: 100%;
+  float:right;
+  background-color:#AD2826;
+
+}
+a{
+  text-decoration: none;
+}
+
+.child1,.child2{
+  box-sizing: border-box;
+  padding: 50px 20px 0px 20px;
+  text-align: center;
+
+}
+
+.button1,.button2{
+  margin-top: 25px;
+  padding:15px;
+}
+.button1{
+  background-color: #3FB0EB;
+}
+.button2{
+  background-color: #F28005;
+}
+
+.bluebg{
+  background-image:url(../bg.jpg);
+  margin-top: 2px;
+  padding-top: 20px;
+  width: 100%;
+  height: 408px;
+  overflow: hidden;
+
+}
+
+.sunflower{
+  margin-left: 50px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+.flyers{
+  float:right;
+  margin-right: 10vw;
+  position: relative;
+  bottom: -23px;
+}
+
+p{
+  text-align: center;
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.cartoony{
+  margin: 25px 100px;
+  padding-bottom: 30px;
+}
+.header3{
+  text-align: center;
+  color:#D83230;
+  font-size: 30px;
+  margin-bottom: 30px;
+  margin-top: 45px;
+}
+.one{
+  display:inline-grid;
+  width: 24%;
+  text-align: center;
+  padding:0 15px;
+  box-sizing: border-box;
+}
+.one>h3{
+  color: black;
+  font-weight: lighter;
+}
+.one>p{
+
+  line-height: 0.1em;
+  border-bottom: 1px solid #DBCBA6;
+  margin-bottom: 25px;
+}
+
+.one>p>span{
+  color:#D83230;
+  font-size: 26px;
+  padding:0px 7px;
+  background-color: white;
+
+}
+
+.videoholder{
+  height: 400px;
+  background-color: #F4F1EA;
+  padding: 30px 130px 15px 130px;
+  text-align: center;
+}
+
+.videoholder h2{
+  font-size: 28px;
+  color: #D83230;
+
+}
+
+h4{
+  font-size: 28px;
+  color: #D83230;
+
+}
+
+.banner{
+  padding: 40px 80px;
+  text-align: center;
+}
+
+.two{
+  width:23%;
+  border-left:1px solid #D83230;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 35px;
+  box-sizing: border-box;
+  color: black;
+  font-size: 20px;
+}
+.two:last-child{
+  border-right: 1px solid #D83230;
+}
+
+.buttonsagain{
+  padding: 30px 80px;
+  background-color: #F4F1EA;
+  height: 200px;
+  text-align: center;
+}
+
+.child3{
+  width: 48.5%;
+  height: 100%;
+  float:left;
+}
+.child4{
+  width: 48.5%;
+  height: 100%;
+  float:right;
+  height: 200px;
+}
+.child3,.child4{
+  box-sizing: border-box;
+  padding: 50px 20px 0px 20px;
+  text-align: center;
+
+}
+.child3>h2{
+  color: #3FB0EB;
+  font-size: 22px;
+}
+.child4>h2{
+  color: #F28005;
+  font-size: 22px;
+}
+.buttonsagain>h2{
+  color: #D73131;
+  font-size: 26px;
+
+}
+.footer{
+  height: 150px;
+  padding: 100px 0px 15px 0px;
+  width: 100%;
+}
+.footer li:hover{
+  color:  #F89484;
+}
+
+.asd,.fgh{
+  height: 150px;
+  background-color: #F4F1EA;
+  float: left;
+  margin: 0.08%;
+}
+
+.asd{
+  width: 9%;
+  padding: 1vw;;
+}
+.fgh{
+  width: 17.1%;
+  padding: 1vw;
+  position: relative;
+
+}
+
+.fgh p{
+  font-size: 12px;
+  font-weight: bold;
+  color: black;
+}
+.fgh li{
+  font-size: 12px;
+  color: black;
+  list-style: none;
+  line-height: 20px;
+}
+.footerlinks a,b{
+  color: black;
+  font-size: 10px;
+}
+.footerlinks a:hover,b:hover{
+  color: #F89484;
+}
+.footerlinks{
+  padding-left: 11%;
+  padding-top: 20px;
+  height: 100px;
+}
+.footerlinks div{
+  padding-bottom:7px;
+  color: black;
+  font-size: 10px;
+}
+
+.logo{
+  position: relative;
+  left: -30px;
+  max-width: 100%;
+}
+.vids{
+  padding: 10px;
+  background-color: white;
+  float:left;
+  margin-top: 20px;
+  width: 100%;
+}
+.listscroll{
+  height: 315px;
+  width: 25vw;
+  border:1px solid #D2D2D2;
+  float: right;
+  margin-left: 20px;
+  overflow: scroll;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.list1 img{
+  float: left;
+  max-width: 51%;
+  clear: both;
+}
+.list1{
+  clear: both;
+}
+
+.list1 b{
+  font-size: 14px;
+  text-align: left;
+}
+b:hover{
+  color: black;
+}
+
+.signin form{
+  position: absolute;
+  padding: 15px 15px 0 15px;
+  box-sizing: border-box;
+}
+
+.signin form input{
+  display: block;
+  width: 21vw;
+  margin-bottom: 10px;
+  height: 40px;
+  padding: 10px;
+  box-sizing: border-box;
+  border:1px solid #CCCCCC;
+}
+.chebo{
+  left: -100px;
+  max-width: 5%;
+
+}
+.signin form div input{
+  display: inline;
+  float: left;
+  margin-right: 10px;
+}
+
+.abs{
+  width: 18.5vw;
+  margin-bottom:10px;
+}
+
+.thelink{
+  text-decoration: underline;
+}
